@@ -7,4 +7,5 @@ import (
 func main(){
 	fmt.Println("A journey of a thousand miles begins with a single step.")
 	fmt.Println("A journey of a thousand miles begins with a single step.")
+	fmt.Println("A journey of a thousand miles begins with a single step.")
 }
